@@ -1,0 +1,5 @@
+{
+  "name": "YouTube SEO Auto-Uploader",
+  "description": "Drag & drop video uploader that uses Gemini AI to optimize titles, descriptions, and tags for maximum YouTube search exposure.",
+  "requestFramePermissions": []
+}
